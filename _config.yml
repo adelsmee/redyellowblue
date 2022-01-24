@@ -21,7 +21,8 @@
 title: Red Yellow Blue
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on living from the edge.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/yellowredblue" # the subpath of your site, e.g. /blog
+relative-url: /redyellowblue
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
