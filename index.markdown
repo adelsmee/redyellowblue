@@ -5,4 +5,4 @@
 layout: default
 ---
 
-<p>hello?</p>
+The world according to Firestone.
